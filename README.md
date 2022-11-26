@@ -1,5 +1,6 @@
 # pokemon-splashscreen
 Fork of Gimbardos quagsire-splashscreen
+
 A simple splash screen for plasma kde that shows a **gif** of a running pokemon
 
 ![Image](contents/previews/splash.png)
