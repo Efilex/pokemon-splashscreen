@@ -1,17 +1,17 @@
 [Desktop Entry]
-Comment=quagsire
+Comment=pokemon
 
 Encoding=UTF-8
 Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
-Name=quagsire
+Name=Pokemon
 
 Type=Service
 
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KDE-ParentApp=
-X-KDE-PluginInfo-Name=quagsire
+X-KDE-PluginInfo-Name=pokemon
 X-KDE-PluginInfo-Author=creativity
-X-KDE-PluginInfo-Email=marusyarasskaz@gmail.com  
+X-KDE-PluginInfo-Email=felix.meuer19@gmail.com  
 X-KDE-PluginInfo-License=GPLv3
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-Plasma-MainScript=defaults 
