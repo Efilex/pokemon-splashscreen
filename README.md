@@ -11,4 +11,4 @@ To install just clone this project into .local/share/plasma/look-and-feel
 
 ## Extending
 
-Add your favourite pokemon by placing a **gif** of it in the `/contents/splash/images` folder. Afterwards change the number in `/contents/splash` to add your image to the selection.
+Add your favourite pokemon by placing a **gif** of it in the `/contents/splash/images` folder. Afterwards change the number in `/contents/splash/Splash.qml` to add your image to the selection.
