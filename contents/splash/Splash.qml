@@ -5,7 +5,7 @@ Rectangle {
 
     AnimatedImage {
         id: loader
-        source: "images/" + Math.ceil(Math.random() * 8) + ".gif" 	//replace number by number of gifs in images folder
+        source: "images/" + Math.ceil(Math.random() * 649) + ".gif" 	//replace number by number of gifs in images folder
         height: 250
         width: 250
         anchors.centerIn: parent
