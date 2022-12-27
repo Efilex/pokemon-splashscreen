@@ -8,6 +8,7 @@ Rectangle {
         source: "images/" + Math.ceil(Math.random() * 649) + ".gif" 	//replace number by number of gifs in images folder
         height: 250
         width: 250
+	fillMode: Image.PreserveAspectFit
         anchors.centerIn: parent
     }
 
