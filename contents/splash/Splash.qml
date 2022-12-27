@@ -5,10 +5,19 @@ Rectangle {
 
     AnimatedImage {
         id: loader
-        source: "images/" + Math.ceil(Math.random() * 649) + ".gif" 	//replace number by number of gifs in images folder
+
+ 	//replace number by number of gifs in images folder
+        source: "images/" + Math.ceil(Math.random() * 649) + ".gif"
+
         height: 250
+
         width: 250
-	fillMode: Image.PreserveAspectFit
+
+	//true by default. smoothes image when scaling up. ruins pixel aesthetic for scaled up pixel images
+	smooth: false
+
+ 	fillMode: Image.PreserveAspectFit
+
         anchors.centerIn: parent
     }
 
